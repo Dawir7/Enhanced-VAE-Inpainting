@@ -14,7 +14,7 @@
   - [Notebooks Overview](#notebooks-overview)
     - [VAE\_BYOL.ipynb](#vae_byolipynb)
     - [VAE\_BarlowTwins.ipynb](#vae_barlowtwinsipynb)
-    - [VAE\_SimClr.ipynb](#vae_simclripynb)
+    - [VAE\_SimCLR.ipynb](#vae_simclripynb)
 
 ## Project Description
 
@@ -106,9 +106,9 @@ Notebook contains:
 - Display of model parameters
 - Hyperparameter experiments
 
-### VAE_SimClr.ipynb
+### VAE_SimCLR.ipynb
 
-This notebook focuses on enhancing VAE performance with SimClr method: Self-Supervised Learning for Improved Image Inpainting. \
+This notebook focuses on enhancing VAE performance with SimCLR method: Self-Supervised Learning for Improved Image Inpainting. \
 Notebook contains:
 
 - Model implementation
