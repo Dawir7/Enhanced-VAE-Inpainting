@@ -66,17 +66,17 @@ The Nature Image Inpainting project aims to reconstruct missing fragments in ima
    pip install -r requirements-cpu.txt
    ```
 
-   > [!NOTE]
-   > It is recommended to run project using GPU. \
-   > Please make sure that you have updated GPU drivers in case of running scripts locally
+> [!NOTE]
+> It is recommended to run project using GPU. \
+> Please make sure that you have updated GPU drivers in case of running scripts locally
 
 5. **Open prepare_data.ipynb notebook**
     - [Optional] Set your own path to data and size of image [64 or 128] that you want to process
 6. **Run all cells in notebook to generate all required folders**
    - [Optional] You can generate pickle files to use for learning
 7. **Select and run notebook with model that you want to train**
-    > [!IMPORTANT]
-    > Consider using Google Colab for training!  For this option, you'll need to utilize pickle files. Store them in your Google Drive and mount it at the start of each notebook you will use.
+> [!IMPORTANT]
+> Consider using Google Colab for training!  For this option, you'll need to utilize pickle files. Store them in your Google Drive and mount it at the start of each notebook you will use.
 
 ## Explore Data
 
